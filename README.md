@@ -13,3 +13,8 @@
    /delete [username]
 4. Register users and сheck the functionality of the program.
 ```
+
+```sh
+Client: run client.py
+Server: run server.py
+```
